@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Yorman Estiben Corba Castaño
+Main-Class: InterfazBienvenida
+X-COMMENT: Proyecto de prueba
