@@ -5,6 +5,8 @@ Esta aplicación desarrollada en Java simula el calculo de días de vacaciones p
 
 🔵 Java
 
+🔵 Java-Swing
+
 ## Hecho por:
 
 🎮 Yorman Corba 🎮 - 
